@@ -1,0 +1,92 @@
+.header__inner{
+    max-width: 600px;
+    padding: 0 20px;
+}
+    .header__inner .header__menu-list,
+    .header__inner .header__submenu-2{
+    margin-bottom: 8px;
+    border-radius: 3px;
+    box-shadow: 0px 0px 15px rgba(0,0,0,0.18);
+}
+    .header__inner .header__menu-list label,
+    .header__inner .header__submenu-2 label{
+    background: #007bff;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    border-radius: 3px;
+    position: relative;
+    z-index: 99;
+    /* transition: all 0.4s ease; */
+}
+    .header__inner .header__menu-list label:hover{
+    background: #006fe6;
+}
+    .header__menu-list input:checked ~ label,
+    .header__submenu-2 input:checked ~ label{
+    border-radius: 3px 3px 0 0;
+    background: #006fe6;
+}
+    .header__inner label span{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    text-shadow: 0 -1px 1px #0056b3;
+}
+    .header__inner .header__submenu-2 label span{
+    font-size: 17px;
+}
+    .header__menu-list label .icon{
+    position: relative;
+    height: 30px;
+    width: 30px;
+    font-size: 15px;
+    color: #007bff;
+    display: block;
+    background: #fff;
+    border-radius: 50%;
+    text-shadow: 0 -1px 1px #0056b3;
+}
+    .header__inner .header__submenu-2 label .icon{
+    height: 27px;
+    width: 27px;
+}
+    .header__menu-list label .icon i{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+    .header__menu-list input:checked ~ label .icon i:before,
+    .header__submenu-2 input:checked ~ label .icon i:before{
+    content: '\f068';
+}
+    .header__inner .header__menu-list .header__submenu-1,
+    .header__inner .header__submenu-2 .header__submenu-1{
+    max-height: 0px;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 0 0 3px 3px;
+    transition: all 0.3s ease;
+}
+    .header__menu-list input:checked ~ .header__submenu-1,
+    .header__submenu-2 input:checked ~ .header__submenu-1{
+    max-height: 100vh;
+}
+    .tab-3 input:checked ~ .header__submenu-1{
+    padding: 15px 20px;
+}
+    .header__menu-list .header__submenu-1 p,
+    .header__submenu-2 .header__submenu-1 p{
+    padding: 15px 20px;
+    font-size: 16px;
+}
+    .header__submenu-2 .header__submenu-1 p{
+    font-size: 15px;
+}
+  input[type="radio"],
+  input[type="checkbox"]{
+    display: none;
+}
