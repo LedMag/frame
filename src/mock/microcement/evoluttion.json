@@ -1,0 +1,638 @@
+[
+    {
+        "productId": "6718C564-1ED1-9A95-7CA9-0A0C6D0BBCBB",
+        "mainCategoryId": null,
+        "name": "Evoluttion Microbase L 20kg",
+        "sku": "TT01114",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Evoluttion Microbase L 20kg",
+        "description": "Evoluttion Microbase L 20kg",
+        "metaDescription": "Evoluttion Microbase L 20kg",
+        "additionalDescriptions": [],
+        "slug": "evoluttion-microbase-l-20kg",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "85.50 €",
+            "amount": 85.5,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662513346",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C564-1ED1-9A95-7CA9-0A0C6D0BBCBB",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C564-1ED1-9A95-7CA9-0A0C6D0BBCBB",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC564%2F1ED1%2F9A95%2F7CA9%2F0A0C%2F6D0B%2FBCBB%2FEvoluttion-Microbase-L-20Kg.jpg&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C85F-6415-D3F5-1C81-0A0C6D0BB0BE",
+        "mainCategoryId": null,
+        "name": "Evoluttion Microdeck® M 18Kg",
+        "sku": "TT01127",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Evoluttion Microdeck® M 18Kg",
+        "description": "Evoluttion Microdeck® M 18Kg",
+        "metaDescription": "Evoluttion Microdeck® M 18Kg",
+        "additionalDescriptions": [],
+        "slug": "evoluttion-microdeck-r-m-18kg",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "100.20 €",
+            "amount": 100.2,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662513568",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C85F-6415-D3F5-1C81-0A0C6D0BB0BE",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C85F-6415-D3F5-1C81-0A0C6D0BB0BE",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC85F%2F6415%2FD3F5%2F1C81%2F0A0C%2F6D0B%2FB0BE%2FTopciment-Cubo-Evoluttion-Microdeck-M_91_1_93_.jpg&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C85F-580F-FDCB-F2C0-0A0C6D0BCD28",
+        "mainCategoryId": null,
+        "name": "Evoluttion Microdeck® L 18Kg",
+        "sku": "TT01128",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Evoluttion Microdeck® L 18Kg",
+        "description": "Evoluttion Microdeck® L 18Kg",
+        "metaDescription": "Evoluttion Microdeck® L 18Kg",
+        "additionalDescriptions": [],
+        "slug": "evoluttion-microdeck-r-l-18kg",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "100.20 €",
+            "amount": 100.2,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662513582",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C85F-580F-FDCB-F2C0-0A0C6D0BCD28",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C85F-580F-FDCB-F2C0-0A0C6D0BCD28",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC85F%2F580F%2FFDCB%2FF2C0%2F0A0C%2F6D0B%2FCD28%2FTopciment-Cubo-Evoluttion-Microdeck-L_91_1_93_.jpg&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C584-3F00-AD80-1575-0A0C6D0BBAD1",
+        "mainCategoryId": null,
+        "name": "Evoluttion Microbase XXL 20kg",
+        "sku": "TT01119",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Evoluttion Microbase XXL 20kg",
+        "description": "Evoluttion Microbase XXL 20kg",
+        "metaDescription": "Evoluttion Microbase XXL 20kg",
+        "additionalDescriptions": [],
+        "slug": "evoluttion-microbase-xxl-20kg",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "85.50 €",
+            "amount": 85.5,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575623948",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C584-3F00-AD80-1575-0A0C6D0BBAD1",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C584-3F00-AD80-1575-0A0C6D0BBAD1",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC584%2F3F00%2FAD80%2F1575%2F0A0C%2F6D0B%2FBAD1%2FEvoluttion-Microbase-XXL-20Kg.jpg&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C587-5A71-B103-D1D4-0A0C6D0BBAED",
+        "mainCategoryId": null,
+        "name": "Evoluttion Microfino S 15Kg",
+        "sku": "TT01118",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Evoluttion Microfino S 15Kg",
+        "description": "Evoluttion Microfino S 15Kg",
+        "metaDescription": "Evoluttion Microfino S 15Kg",
+        "additionalDescriptions": [],
+        "slug": "evoluttion-microfino-s-15kg",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "84.50 €",
+            "amount": 84.5,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575623955",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C587-5A71-B103-D1D4-0A0C6D0BBAED",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C587-5A71-B103-D1D4-0A0C6D0BBAED",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC587%2F5A71%2FB103%2FD1D4%2F0A0C%2F6D0B%2FBAED%2FTopciment-Cubo-Evoluttion-Microfino-S_91_1_93_.jpg&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C589-3EFB-CC2A-2B72-0A0C6D0B9070",
+        "mainCategoryId": null,
+        "name": "Evoluttion Microbase XL 20kg",
+        "sku": "TT01120",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Evoluttion Microbase XL 20kg",
+        "description": "Evoluttion Microbase XL 20kg",
+        "metaDescription": "Evoluttion Microbase XL 20kg",
+        "additionalDescriptions": [],
+        "slug": "evoluttion-microbase-xl-20kg",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "85.50 €",
+            "amount": 85.5,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662513353",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C589-3EFB-CC2A-2B72-0A0C6D0B9070",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C589-3EFB-CC2A-2B72-0A0C6D0B9070",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC589%2F3EFB%2FCC2A%2F2B72%2F0A0C%2F6D0B%2F9070%2FEvoluttion-Microbase-XL-20Kg.jpg&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    }
+]

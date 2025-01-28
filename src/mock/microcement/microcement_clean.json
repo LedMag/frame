@@ -1,0 +1,426 @@
+[
+    {
+        "productId": "6718C551-7F4D-F293-C465-0A0C6D10DFA3",
+        "mainCategoryId": null,
+        "name": "Ecoclean Basic 5L",
+        "sku": "TT07003",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Ecoclean Basic 5L",
+        "description": "Ecoclean Basic 5L",
+        "metaDescription": "Ecoclean Basic 5L",
+        "additionalDescriptions": [],
+        "slug": "ecoclean-basic-5l",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "40.20 €",
+            "amount": 40.2,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662504238",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C551-7F4D-F293-C465-0A0C6D10DFA3",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C551-7F4D-F293-C465-0A0C6D10DFA3",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC551%2F7F4D%2FF293%2FC465%2F0A0C%2F6D10%2FDFA3%2Fecocleanbasic_91_1_93_.jpg&shop=701275880",
+            "width": 1062,
+            "height": 1062,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C552-1131-D014-AA69-0A0C6D10A5ED",
+        "mainCategoryId": null,
+        "name": "Ecoclean Pro 5L ADR",
+        "sku": "TT07004",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Ecoclean Pro 5L ADR",
+        "description": "Ecoclean Pro 5L ADR",
+        "metaDescription": "Ecoclean Pro 5L ADR",
+        "additionalDescriptions": [],
+        "slug": "ecoclean-pro-5l-adr",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "42.30 €",
+            "amount": 42.3,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662504245",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C552-1131-D014-AA69-0A0C6D10A5ED",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C552-1131-D014-AA69-0A0C6D10A5ED",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC552%2F1131%2FD014%2FAA69%2F0A0C%2F6D10%2FA5ED%2Fecocleanpro_91_1_93_.jpg&shop=701275880",
+            "width": 1062,
+            "height": 1062,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C551-570C-C032-C3B6-0A0C6D0B90FE",
+        "mainCategoryId": null,
+        "name": "Ceraciment Pro 5L",
+        "sku": "TT07002",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Ceraciment Pro 5L",
+        "description": "Ceraciment Pro 5L",
+        "metaDescription": "Ceraciment Pro 5L",
+        "additionalDescriptions": [],
+        "slug": "ceraciment-pro-5l",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "106.10 €",
+            "amount": 106.1,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575624587",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C551-570C-C032-C3B6-0A0C6D0B90FE",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C551-570C-C032-C3B6-0A0C6D0B90FE",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC551%2F570C%2FC032%2FC3B6%2F0A0C%2F6D0B%2F90FE%2Fceracimentpro_91_1_93_.jpg&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C552-55DE-CB80-1EB0-0A0C6D10A508",
+        "mainCategoryId": null,
+        "name": "Ceraciment Basic 5L",
+        "sku": "TT07001",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Ceraciment Basic 5L",
+        "description": "Ceraciment Basic 5L",
+        "metaDescription": "Ceraciment Basic 5L",
+        "additionalDescriptions": [],
+        "slug": "ceraciment-basic-5l",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "39.20 €",
+            "amount": 39.2,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575624570",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C552-55DE-CB80-1EB0-0A0C6D10A508",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C552-55DE-CB80-1EB0-0A0C6D10A508",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC552%2F55DE%2FCB80%2F1EB0%2F0A0C%2F6D10%2FA508%2Fceracimentbasic_91_1_93_.jpg&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    }
+]

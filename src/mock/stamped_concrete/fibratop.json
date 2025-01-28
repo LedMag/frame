@@ -1,0 +1,214 @@
+[
+    {
+        "productId": "6718C7C5-0343-4FA2-32B5-0A0C6D100551",
+        "mainCategoryId": null,
+        "name": "Fibra Top 6mm polipropileno caja 20 uds",
+        "sku": "TT11802",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Fibra Top 6mm polipropileno caja 20 uds",
+        "description": "Fibra Top 6mm polipropileno caja 20 uds",
+        "metaDescription": "Fibra Top 6mm polipropileno caja 20 uds",
+        "additionalDescriptions": [],
+        "slug": "fibra-top-6mm-polipropileno-caja-20-uds",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "92.70 €",
+            "amount": 92.7,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575623757",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C7C5-0343-4FA2-32B5-0A0C6D100551",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C7C5-0343-4FA2-32B5-0A0C6D100551",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC7C5%2F0343%2F4FA2%2F32B5%2F0A0C%2F6D10%2F0551%2Ffibras-de-polipropileno.png&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C7C5-2527-31AB-7B40-0A0C6D0BB02D",
+        "mainCategoryId": null,
+        "name": "Fibra Top 12mm polipropileno caja 20 uds",
+        "sku": "TT11803",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Fibra Top 12mm polipropileno caja 20 uds",
+        "description": "Fibra Top 12mm polipropileno caja 20 uds",
+        "metaDescription": "Fibra Top 12mm polipropileno caja 20 uds",
+        "additionalDescriptions": [],
+        "slug": "fibra-top-12mm-polipropileno-caja-20-uds",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "92.70 €",
+            "amount": 92.7,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575622293",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C7C5-2527-31AB-7B40-0A0C6D0BB02D",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C7C5-2527-31AB-7B40-0A0C6D0BB02D",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC7C5%2F2527%2F31AB%2F7B40%2F0A0C%2F6D0B%2FB02D%2Ffibras-de-polipropileno.png&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    }
+]

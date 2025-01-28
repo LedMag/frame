@@ -1,0 +1,2758 @@
+[
+    {
+        "productId": "6718C20F-71DC-804B-C43D-0A0C6D0BBAE9",
+        "mainCategoryId": null,
+        "name": "1ud Mango rodillo clip 180mm",
+        "sku": "TT06019",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "1ud Mango rodillo clip 180mm",
+        "description": "1ud Mango rodillo clip 180mm",
+        "metaDescription": "1ud Mango rodillo clip 180mm",
+        "additionalDescriptions": [],
+        "slug": "1ud-mango-rodillo-clip-180mm",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "11.14 €",
+            "amount": 11.14,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575624518",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C20F-71DC-804B-C43D-0A0C6D0BBAE9",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C20F-71DC-804B-C43D-0A0C6D0BBAE9",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC20F%2F71DC%2F804B%2FC43D%2F0A0C%2F6D0B%2FBAE9%2FMango-rodillo.jpg&shop=701275880",
+            "width": 1063,
+            "height": 1063,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C20F-FD1F-CD75-2C91-0A0C6D0BBAD3",
+        "mainCategoryId": null,
+        "name": "1ud Mango rodillo clip 220 mm",
+        "sku": "TT06020",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "1ud Mango rodillo clip 220 mm",
+        "description": "1ud Mango rodillo clip 220 mm",
+        "metaDescription": "1ud Mango rodillo clip 220 mm",
+        "additionalDescriptions": [],
+        "slug": "1ud-mango-rodillo-clip-220-mm",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "9.30 €",
+            "amount": 9.3,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575624525",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C20F-FD1F-CD75-2C91-0A0C6D0BBAD3",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C20F-FD1F-CD75-2C91-0A0C6D0BBAD3",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC20F%2FFD1F%2FCD75%2F2C91%2F0A0C%2F6D0B%2FBAD3%2FMango-rodillo.jpg&shop=701275880",
+            "width": 1063,
+            "height": 1063,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C210-2EF8-680F-5071-0A0C6D10A5C6",
+        "mainCategoryId": null,
+        "name": "1ud rec.rodillo esmaltar DSV 4mm/180mm",
+        "sku": "TT06021",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "1ud rec.rodillo esmaltar DSV 4mm/180mm",
+        "description": "1ud rec.rodillo esmaltar DSV 4mm/180mm",
+        "metaDescription": "1ud rec.rodillo esmaltar DSV 4mm/180mm",
+        "additionalDescriptions": [],
+        "slug": "1ud-rec-rodillo-esmaltar-dsv-4mm-180mm",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "11.40 €",
+            "amount": 11.4,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575624532",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C210-2EF8-680F-5071-0A0C6D10A5C6",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C210-2EF8-680F-5071-0A0C6D10A5C6",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC210%2F2EF8%2F680F%2F5071%2F0A0C%2F6D10%2FA5C6%2Frodillo-DSV.jpg&shop=701275880",
+            "width": 458,
+            "height": 458,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C579-061D-08CB-9C4D-0A0C6D10DE01",
+        "mainCategoryId": null,
+        "name": "Mango rodillo clip 180 mm (pack 24uds) ¡NUEVO!",
+        "sku": "TT06119",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Mango rodillo clip 180 mm (pack 24uds) ¡NUEVO!",
+        "description": "Mango rodillo clip 180 mm (pack 24uds) ¡NUEVO!",
+        "metaDescription": "Mango rodillo clip 180 mm (pack 24uds) ¡NUEVO!",
+        "additionalDescriptions": [],
+        "slug": "mango-rodillo-clip-180-mm-pack-24uds-nuevo",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "97.90 €",
+            "amount": 97.9,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662505129",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C579-061D-08CB-9C4D-0A0C6D10DE01",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C579-061D-08CB-9C4D-0A0C6D10DE01",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC579%2F061D%2F08CB%2F9C4D%2F0A0C%2F6D10%2FDE01%2FMango-rodillo.jpg&shop=701275880",
+            "width": 1063,
+            "height": 1063,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C5B6-A564-D58F-3DC8-0A0C6D0B122F",
+        "mainCategoryId": null,
+        "name": "Imacem® Pison",
+        "sku": "TT10367",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Imacem® Pison",
+        "description": "Imacem® Pison",
+        "metaDescription": "Imacem® Pison",
+        "additionalDescriptions": [],
+        "slug": "imacem-r-pison",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "209.10 €",
+            "amount": 209.1,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662503576",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C5B6-A564-D58F-3DC8-0A0C6D0B122F",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C5B6-A564-D58F-3DC8-0A0C6D0B122F",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC5B6%2FA564%2FD58F%2F3DC8%2F0A0C%2F6D0B%2F122F%2Fpison.jpeg&shop=701275880",
+            "width": 247,
+            "height": 247,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C82F-62DE-D911-2D47-0A0C6D0BB056",
+        "mainCategoryId": null,
+        "name": "Llana Zeus",
+        "sku": "TT06051",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Llana Zeus",
+        "description": "Llana Zeus",
+        "metaDescription": "Llana Zeus",
+        "additionalDescriptions": [],
+        "slug": "llana-zeus",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "37.30 €",
+            "amount": 37.3,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": null,
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C82F-62DE-D911-2D47-0A0C6D0BB056",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C82F-62DE-D911-2D47-0A0C6D0BB056",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC82F%2F62DE%2FD911%2F2D47%2F0A0C%2F6D0B%2FB056%2Fllana-2023-Zeus.png&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C873-D2D4-82DD-02DE-0A0C6D0BA715",
+        "mainCategoryId": null,
+        "name": "1ud Recambio rodillo WT 4mm/220mm",
+        "sku": "TT06055",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "1ud Recambio rodillo WT 4mm/220mm",
+        "description": "1ud Recambio rodillo WT 4mm/220mm",
+        "metaDescription": "1ud Recambio rodillo WT 4mm/220mm",
+        "additionalDescriptions": [],
+        "slug": "1ud-recambio-rodillo-wt-4mm-220mm",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "13.40 €",
+            "amount": 13.4,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662513636",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C873-D2D4-82DD-02DE-0A0C6D0BA715",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C873-D2D4-82DD-02DE-0A0C6D0BA715",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC873%2FD2D4%2F82DD%2F02DE%2F0A0C%2F6D0B%2FA715%2FRodillo-WT.jpg&shop=701275880",
+            "width": 1063,
+            "height": 1063,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C873-8F5B-2AA9-C9C4-0A0C6D10ACF3",
+        "mainCategoryId": null,
+        "name": "1ud Mango rodillo negro clip 220 mm",
+        "sku": "TT06057",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "1ud Mango rodillo negro clip 220 mm",
+        "description": "1ud Mango rodillo negro clip 220 mm",
+        "metaDescription": "1ud Mango rodillo negro clip 220 mm",
+        "additionalDescriptions": [],
+        "slug": "1ud-mango-rodillo-negro-clip-220-mm",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "9.30 €",
+            "amount": 9.3,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662513643",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C873-8F5B-2AA9-C9C4-0A0C6D10ACF3",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C873-8F5B-2AA9-C9C4-0A0C6D10ACF3",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC873%2F8F5B%2F2AA9%2FC9C4%2F0A0C%2F6D10%2FACF3%2FMango-rodillo-negro.jpg&shop=701275880",
+            "width": 1063,
+            "height": 1063,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C620-2B8B-BAB1-9BA5-0A0C6D0BCD1E",
+        "mainCategoryId": null,
+        "name": "Imacem® Roller Textura flat face 3/16\"",
+        "sku": "TT10391",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Imacem® Roller Textura flat face 3/16\"",
+        "description": "Imacem® Roller Textura flat face 3/16\"",
+        "metaDescription": "Imacem® Roller Textura flat face 3/16\"",
+        "additionalDescriptions": [],
+        "slug": "imacem-r-roller-textura-flat-face-3-16",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "535.60 €",
+            "amount": 535.6,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662503811",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C620-2B8B-BAB1-9BA5-0A0C6D0BCD1E",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C620-2B8B-BAB1-9BA5-0A0C6D0BCD1E",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC620%2F2B8B%2FBAB1%2F9BA5%2F0A0C%2F6D0B%2FCD1E%2Froller_texture.jpeg&shop=701275880",
+            "width": 247,
+            "height": 247,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C620-4C88-6DFA-0750-0A0C6D0BB085",
+        "mainCategoryId": null,
+        "name": "Imacem® Roller Textura flat face 1/2\"",
+        "sku": "TT10392",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Imacem® Roller Textura flat face 1/2\"",
+        "description": "Imacem® Roller Textura flat face 1/2\"",
+        "metaDescription": "Imacem® Roller Textura flat face 1/2\"",
+        "additionalDescriptions": [],
+        "slug": "imacem-r-roller-textura-flat-face-1-2",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "535.60 €",
+            "amount": 535.6,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662503828",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C620-4C88-6DFA-0750-0A0C6D0BB085",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C620-4C88-6DFA-0750-0A0C6D0BB085",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC620%2F4C88%2F6DFA%2F0750%2F0A0C%2F6D0B%2FB085%2Froller-flat.jpg&shop=701275880",
+            "width": 256,
+            "height": 1078,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C621-A18D-D4EF-9720-0A0C6D10DE25",
+        "mainCategoryId": null,
+        "name": "Imacem® Roller Textura sanded face 3/8\"",
+        "sku": "TT10393",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Imacem® Roller Textura sanded face 3/8\"",
+        "description": "Imacem® Roller Textura sanded face 3/8\"",
+        "metaDescription": "Imacem® Roller Textura sanded face 3/8\"",
+        "additionalDescriptions": [],
+        "slug": "imacem-r-roller-textura-sanded-face-3-8",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "535.60 €",
+            "amount": 535.6,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662503835",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C621-A18D-D4EF-9720-0A0C6D10DE25",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C621-A18D-D4EF-9720-0A0C6D10DE25",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC621%2FA18D%2FD4EF%2F9720%2F0A0C%2F6D10%2FDE25%2Froller-sanded.jpg&shop=701275880",
+            "width": 224,
+            "height": 224,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C621-751D-6330-060F-0A0C6D0B68B1",
+        "mainCategoryId": null,
+        "name": "Imacem® Roller Textura sanded face 1/2\"",
+        "sku": "TT10394",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Imacem® Roller Textura sanded face 1/2\"",
+        "description": "Imacem® Roller Textura sanded face 1/2\"",
+        "metaDescription": "Imacem® Roller Textura sanded face 1/2\"",
+        "additionalDescriptions": [],
+        "slug": "imacem-r-roller-textura-sanded-face-1-2",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "535.60 €",
+            "amount": 535.6,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662503842",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C621-751D-6330-060F-0A0C6D0B68B1",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C621-751D-6330-060F-0A0C6D0B68B1",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC621%2F751D%2F6330%2F060F%2F0A0C%2F6D0B%2F68B1%2Froller-sanded.jpg&shop=701275880",
+            "width": 224,
+            "height": 224,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C64D-0710-DF82-C79D-0A0C6D0BB0BE",
+        "mainCategoryId": null,
+        "name": "Adaptador Orbitel",
+        "sku": "TT10500",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Adaptador Orbitel",
+        "description": "Adaptador Orbitel",
+        "metaDescription": "Adaptador Orbitel",
+        "additionalDescriptions": [],
+        "slug": "adaptador-orbitel",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "212.00 €",
+            "amount": 212,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": null,
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C64D-0710-DF82-C79D-0A0C6D0BB0BE",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C64D-0710-DF82-C79D-0A0C6D0BB0BE",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC64D%2F0710%2FDF82%2FC79D%2F0A0C%2F6D0B%2FB0BE%2Forbitel_pro_giratorio_california_y_talocha.jpeg&shop=701275880",
+            "width": 247,
+            "height": 247,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C211-DBA2-7AE7-3644-0A0C6D0BBC27",
+        "mainCategoryId": null,
+        "name": "1ud rec.rodillo esmaltar DSV 4mm/220mm",
+        "sku": "TT06022",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "1ud rec.rodillo esmaltar DSV 4mm/220mm",
+        "description": "1ud rec.rodillo esmaltar DSV 4mm/220mm",
+        "metaDescription": "1ud rec.rodillo esmaltar DSV 4mm/220mm",
+        "additionalDescriptions": [],
+        "slug": "1ud-rec-rodillo-esmaltar-dsv-4mm-220mm",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "14.50 €",
+            "amount": 14.5,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575624549",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C211-DBA2-7AE7-3644-0A0C6D0BBC27",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C211-DBA2-7AE7-3644-0A0C6D0BBC27",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC211%2FDBA2%2F7AE7%2F3644%2F0A0C%2F6D0B%2FBC27%2Frodillo-DSV.jpg&shop=701275880",
+            "width": 458,
+            "height": 458,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C211-6D76-1CD7-4AD4-0A0C6D107AD3",
+        "mainCategoryId": null,
+        "name": "1ud rec.rodillo esmaltar WT 4mm/180mm",
+        "sku": "TT06023",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "1ud rec.rodillo esmaltar WT 4mm/180mm",
+        "description": "1ud rec.rodillo esmaltar WT 4mm/180mm",
+        "metaDescription": "1ud rec.rodillo esmaltar WT 4mm/180mm",
+        "additionalDescriptions": [],
+        "slug": "1ud-rec-rodillo-esmaltar-wt-4mm-180mm",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "13.40 €",
+            "amount": 13.4,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575624556",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C211-6D76-1CD7-4AD4-0A0C6D107AD3",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C211-6D76-1CD7-4AD4-0A0C6D107AD3",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC211%2F6D76%2F1CD7%2F4AD4%2F0A0C%2F6D10%2F7AD3%2FRodillo-WT.jpg&shop=701275880",
+            "width": 1063,
+            "height": 1063,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C211-578E-217E-DAE3-0A0C6D10DFC7",
+        "mainCategoryId": null,
+        "name": "1ud rec.rodillo esmaltar WT 4mm/220mm",
+        "sku": "TT06024",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "1ud rec.rodillo esmaltar WT 4mm/220mm",
+        "description": "1ud rec.rodillo esmaltar WT 4mm/220mm",
+        "metaDescription": "1ud rec.rodillo esmaltar WT 4mm/220mm",
+        "additionalDescriptions": [],
+        "slug": "1ud-rec-rodillo-esmaltar-wt-4mm-220mm",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "13.40 €",
+            "amount": 13.4,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575624563",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C211-578E-217E-DAE3-0A0C6D10DFC7",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C211-578E-217E-DAE3-0A0C6D10DFC7",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC211%2F578E%2F217E%2FDAE3%2F0A0C%2F6D10%2FDFC7%2FRodillo-WT.jpg&shop=701275880",
+            "width": 1063,
+            "height": 1063,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C558-6A45-D239-9E17-0A0C6D0B905F",
+        "mainCategoryId": null,
+        "name": "Llana de carbono 28 x 12 x 0,4 cm (caja 6uds)",
+        "sku": "TT06026",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Llana de carbono 28 x 12 x 0,4 cm (caja 6uds)",
+        "description": "Llana de carbono 28 x 12 x 0,4 cm (caja 6uds)",
+        "metaDescription": "Llana de carbono 28 x 12 x 0,4 cm (caja 6uds)",
+        "additionalDescriptions": [],
+        "slug": "llana-de-carbono-28-x-12-x-0-4-cm-caja-6uds",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "235.90 €",
+            "amount": 235.9,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575624631",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C558-6A45-D239-9E17-0A0C6D0B905F",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C558-6A45-D239-9E17-0A0C6D0B905F",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC558%2F6A45%2FD239%2F9E17%2F0A0C%2F6D0B%2F905F%2FLlana-carbono.jpg&shop=701275880",
+            "width": 1063,
+            "height": 1063,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C61B-904E-33DB-7E09-0A0C6D10A671",
+        "mainCategoryId": null,
+        "name": "Imacem® Orbitel Pro",
+        "sku": "TT10375",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Imacem® Orbitel Pro",
+        "description": "Imacem® Orbitel Pro",
+        "metaDescription": "Imacem® Orbitel Pro",
+        "additionalDescriptions": [],
+        "slug": "imacem-r-orbitel-pro",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "207.60 €",
+            "amount": 207.6,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662503651",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C61B-904E-33DB-7E09-0A0C6D10A671",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C61B-904E-33DB-7E09-0A0C6D10A671",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC61B%2F904E%2F33DB%2F7E09%2F0A0C%2F6D10%2FA671%2Forbitel_pro_giratorio_california_y_talocha.jpeg&shop=701275880",
+            "width": 247,
+            "height": 247,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C61B-7B33-533B-BF49-0A0C6D107AE1",
+        "mainCategoryId": null,
+        "name": "Imacem® Orbitel Fijo talocha",
+        "sku": "TT10376",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Imacem® Orbitel Fijo talocha",
+        "description": "Imacem® Orbitel Fijo talocha",
+        "metaDescription": "Imacem® Orbitel Fijo talocha",
+        "additionalDescriptions": [],
+        "slug": "imacem-r-orbitel-fijo-talocha",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "535.60 €",
+            "amount": 535.6,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662503668",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C61B-7B33-533B-BF49-0A0C6D107AE1",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C61B-7B33-533B-BF49-0A0C6D107AE1",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC61B%2F7B33%2F533B%2FBF49%2F0A0C%2F6D10%2F7AE1%2Forbitel_fijo_talocha.jpeg&shop=701275880",
+            "width": 247,
+            "height": 247,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C61C-E766-96A1-B179-0A0C6D10A554",
+        "mainCategoryId": null,
+        "name": "Imacem® Orbitel FijoCalifornia",
+        "sku": "TT10377",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Imacem® Orbitel FijoCalifornia",
+        "description": "Imacem® Orbitel FijoCalifornia",
+        "metaDescription": "Imacem® Orbitel FijoCalifornia",
+        "additionalDescriptions": [],
+        "slug": "imacem-r-orbitel-fijocalifornia",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "535.60 €",
+            "amount": 535.6,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662503675",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C61C-E766-96A1-B179-0A0C6D10A554",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C61C-E766-96A1-B179-0A0C6D10A554",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC61C%2FE766%2F96A1%2FB179%2F0A0C%2F6D10%2FA554%2Forbitel_fijo_California.jpeg&shop=701275880",
+            "width": 247,
+            "height": 247,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C61C-E590-95B1-6377-0A0C6D107AD1",
+        "mainCategoryId": null,
+        "name": "Imacem® Llana Magnesio",
+        "sku": "TT10378",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Imacem® Llana Magnesio",
+        "description": "Imacem® Llana Magnesio",
+        "metaDescription": "Imacem® Llana Magnesio",
+        "additionalDescriptions": [],
+        "slug": "imacem-r-llana-magnesio",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "535.60 €",
+            "amount": 535.6,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662503682",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C61C-E590-95B1-6377-0A0C6D107AD1",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C61C-E590-95B1-6377-0A0C6D107AD1",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC61C%2FE590%2F95B1%2F6377%2F0A0C%2F6D10%2F7AD1%2FLlana_magnesio.jpeg&shop=701275880",
+            "width": 247,
+            "height": 247,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C61C-D788-2CCF-64ED-0A0C6D0BCD84",
+        "mainCategoryId": null,
+        "name": "Imacem® Llana Piscina 35*10 cm",
+        "sku": "TT10379",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Imacem® Llana Piscina 35*10 cm",
+        "description": "Imacem® Llana Piscina 35*10 cm",
+        "metaDescription": "Imacem® Llana Piscina 35*10 cm",
+        "additionalDescriptions": [],
+        "slug": "imacem-r-llana-piscina-35-10-cm",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "535.60 €",
+            "amount": 535.6,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662503699",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C61C-D788-2CCF-64ED-0A0C6D0BCD84",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C61C-D788-2CCF-64ED-0A0C6D0BCD84",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC61C%2FD788%2F2CCF%2F64ED%2F0A0C%2F6D0B%2FCD84%2FLlana_piscina.jpeg&shop=701275880",
+            "width": 247,
+            "height": 247,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C61D-5E56-64F0-ED03-0A0C6D0BE179",
+        "mainCategoryId": null,
+        "name": "Imacem® Canteadora curva",
+        "sku": "TT10382",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Imacem® Canteadora curva",
+        "description": "Imacem® Canteadora curva",
+        "metaDescription": "Imacem® Canteadora curva",
+        "additionalDescriptions": [],
+        "slug": "imacem-r-canteadora-curva",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "45.40 €",
+            "amount": 45.4,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662503729",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C61D-5E56-64F0-ED03-0A0C6D0BE179",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C61D-5E56-64F0-ED03-0A0C6D0BE179",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC61D%2F5E56%2F64F0%2FED03%2F0A0C%2F6D0B%2FE179%2FCanteadora_curva.jpeg&shop=701275880",
+            "width": 247,
+            "height": 247,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C620-E56F-B77A-7412-0A0C6D0B907B",
+        "mainCategoryId": null,
+        "name": "Imacem® Roller Textura flat face 3/8\"",
+        "sku": "TT10390",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Imacem® Roller Textura flat face 3/8\"",
+        "description": "Imacem® Roller Textura flat face 3/8\"",
+        "metaDescription": "Imacem® Roller Textura flat face 3/8\"",
+        "additionalDescriptions": [],
+        "slug": "imacem-r-roller-textura-flat-face-3-8",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "535.60 €",
+            "amount": 535.6,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662503804",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C620-E56F-B77A-7412-0A0C6D0B907B",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C620-E56F-B77A-7412-0A0C6D0B907B",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC620%2FE56F%2FB77A%2F7412%2F0A0C%2F6D0B%2F907B%2Froller_texture.jpeg&shop=701275880",
+            "width": 247,
+            "height": 247,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C622-21EF-FB61-316B-0A0C6D10DF4E",
+        "mainCategoryId": null,
+        "name": "Imacem® Roller Textura wedge face 1/2\"",
+        "sku": "TT10395",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Imacem® Roller Textura wedge face 1/2\"",
+        "description": "Imacem® Roller Textura wedge face 1/2\"",
+        "metaDescription": "Imacem® Roller Textura wedge face 1/2\"",
+        "additionalDescriptions": [],
+        "slug": "imacem-r-roller-textura-wedge-face-1-2",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "535.60 €",
+            "amount": 535.6,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662503859",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C622-21EF-FB61-316B-0A0C6D10DF4E",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C622-21EF-FB61-316B-0A0C6D10DF4E",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC622%2F21EF%2FFB61%2F316B%2F0A0C%2F6D10%2FDF4E%2Froller-wedge.jpeg&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C622-6F0A-5B81-D626-0A0C6D109384",
+        "mainCategoryId": null,
+        "name": "Imacem® Gancho",
+        "sku": "TT10396",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Imacem® Gancho",
+        "description": "Imacem® Gancho",
+        "metaDescription": "Imacem® Gancho",
+        "additionalDescriptions": [],
+        "slug": "imacem-r-gancho",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "535.60 €",
+            "amount": 535.6,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662503866",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C622-6F0A-5B81-D626-0A0C6D109384",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C622-6F0A-5B81-D626-0A0C6D109384",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC622%2F6F0A%2F5B81%2FD626%2F0A0C%2F6D10%2F9384%2Fgancho.jpeg&shop=701275880",
+            "width": 247,
+            "height": 247,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    }
+]

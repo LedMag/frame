@@ -1,0 +1,1113 @@
+[
+    {
+        "productId": "6718C693-2951-3394-8E10-0A0C6D0B5C12",
+        "mainCategoryId": null,
+        "name": "Emottion pannacotta 2.5l",
+        "sku": "TT09000",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Emottion pannacotta 2.5l",
+        "description": "Emottion pannacotta 2.5l",
+        "metaDescription": "Emottion pannacotta 2.5l",
+        "additionalDescriptions": [],
+        "slug": "emottion-pannacotta-2-5l",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "90.70 €",
+            "amount": 90.7,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575625942",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C693-2951-3394-8E10-0A0C6D0B5C12",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C693-2951-3394-8E10-0A0C6D0B5C12",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": null,
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C693-CD2B-7FDA-05E9-0A0C6D0B9051",
+        "mainCategoryId": null,
+        "name": "Emottion taupe 2.5l",
+        "sku": "TT09001",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Emottion taupe 2.5l",
+        "description": "Emottion taupe 2.5l",
+        "metaDescription": "Emottion taupe 2.5l",
+        "additionalDescriptions": [],
+        "slug": "emottion-taupe-2-5l",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "90.70 €",
+            "amount": 90.7,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575625843",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C693-CD2B-7FDA-05E9-0A0C6D0B9051",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C693-CD2B-7FDA-05E9-0A0C6D0B9051",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": null,
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C693-4327-3B5D-1C68-0A0C6D0B904A",
+        "mainCategoryId": null,
+        "name": "Emottion linen 2.5l",
+        "sku": "TT09002",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Emottion linen 2.5l",
+        "description": "Emottion linen 2.5l",
+        "metaDescription": "Emottion linen 2.5l",
+        "additionalDescriptions": [],
+        "slug": "emottion-linen-2-5l",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "88.60 €",
+            "amount": 88.6,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575625874",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C693-4327-3B5D-1C68-0A0C6D0B904A",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C693-4327-3B5D-1C68-0A0C6D0B904A",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": null,
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C694-3705-F49E-1A7D-0A0C6D0B90AF",
+        "mainCategoryId": null,
+        "name": "Emottion hazelnut 2.5L",
+        "sku": "TT09003",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Emottion hazelnut 2.5L",
+        "description": "Emottion hazelnut 2.5L",
+        "metaDescription": "Emottion hazelnut 2.5L",
+        "additionalDescriptions": [],
+        "slug": "emottion-hazelnut-2-5l",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "85.50 €",
+            "amount": 85.5,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575625720",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C694-3705-F49E-1A7D-0A0C6D0B90AF",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C694-3705-F49E-1A7D-0A0C6D0B90AF",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": null,
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C694-E06F-2235-ECC9-0A0C6D10A500",
+        "mainCategoryId": null,
+        "name": "Emottion wicker 2.5l",
+        "sku": "TT09004",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Emottion wicker 2.5l",
+        "description": "Emottion wicker 2.5l",
+        "metaDescription": "Emottion wicker 2.5l",
+        "additionalDescriptions": [],
+        "slug": "emottion-wicker-2-5l",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "82.40 €",
+            "amount": 82.4,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575625850",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C694-E06F-2235-ECC9-0A0C6D10A500",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C694-E06F-2235-ECC9-0A0C6D10A500",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": null,
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C694-64FE-08D2-83E8-0A0C6D0B12C8",
+        "mainCategoryId": null,
+        "name": "Emottion koala 2.5l",
+        "sku": "TT09005",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Emottion koala 2.5l",
+        "description": "Emottion koala 2.5l",
+        "metaDescription": "Emottion koala 2.5l",
+        "additionalDescriptions": [],
+        "slug": "emottion-koala-2-5l",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "84.50 €",
+            "amount": 84.5,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575625836",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C694-64FE-08D2-83E8-0A0C6D0B12C8",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C694-64FE-08D2-83E8-0A0C6D0B12C8",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": null,
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C695-CAA4-44F0-77A4-0A0C6D107AF4",
+        "mainCategoryId": null,
+        "name": "Emottion wallnut 2.5l",
+        "sku": "TT09006",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Emottion wallnut 2.5l",
+        "description": "Emottion wallnut 2.5l",
+        "metaDescription": "Emottion wallnut 2.5l",
+        "additionalDescriptions": [],
+        "slug": "emottion-wallnut-2-5l",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "80.40 €",
+            "amount": 80.4,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575625867",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C695-CAA4-44F0-77A4-0A0C6D107AF4",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C695-CAA4-44F0-77A4-0A0C6D107AF4",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": null,
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C695-7C8D-1638-A6C1-0A0C6D10A675",
+        "mainCategoryId": null,
+        "name": "Emottion anthracite 2.5L",
+        "sku": "TT09007",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Emottion anthracite 2.5L",
+        "description": "Emottion anthracite 2.5L",
+        "metaDescription": "Emottion anthracite 2.5L",
+        "additionalDescriptions": [],
+        "slug": "emottion-anthracite-2-5l",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "77.30 €",
+            "amount": 77.3,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575625881",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C695-7C8D-1638-A6C1-0A0C6D10A675",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C695-7C8D-1638-A6C1-0A0C6D10A675",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": null,
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C695-7CAD-EA72-7F5E-0A0C6D0B12F2",
+        "mainCategoryId": null,
+        "name": "Emottion shadow black 2.5l",
+        "sku": "TT09008",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Emottion shadow black 2.5l",
+        "description": "Emottion shadow black 2.5l",
+        "metaDescription": "Emottion shadow black 2.5l",
+        "additionalDescriptions": [],
+        "slug": "emottion-shadow-black-2-5l",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "76.30 €",
+            "amount": 76.3,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575625935",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C695-7CAD-EA72-7F5E-0A0C6D0B12F2",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C695-7CAD-EA72-7F5E-0A0C6D0B12F2",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": null,
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C695-049A-EBCE-0E22-0A0C6D0B8267",
+        "mainCategoryId": null,
+        "name": "Emottion pure black 2.5l",
+        "sku": "TT09009",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Emottion pure black 2.5l",
+        "description": "Emottion pure black 2.5l",
+        "metaDescription": "Emottion pure black 2.5l",
+        "additionalDescriptions": [],
+        "slug": "emottion-pure-black-2-5l",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "75.20 €",
+            "amount": 75.2,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575625928",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C695-049A-EBCE-0E22-0A0C6D0B8267",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C695-049A-EBCE-0E22-0A0C6D0B8267",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": null,
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C7AE-BBB6-F004-2F9E-0A0C6D0BBAF5",
+        "mainCategoryId": null,
+        "name": "Emottion incoloro 2.5l",
+        "sku": "TT09010",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Emottion incoloro 2.5l",
+        "description": "Emottion incoloro 2.5l",
+        "metaDescription": "Emottion incoloro 2.5l",
+        "additionalDescriptions": [],
+        "slug": "emottion-incoloro-2-5l",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "67.00 €",
+            "amount": 67,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662510840",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C7AE-BBB6-F004-2F9E-0A0C6D0BBAF5",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C7AE-BBB6-F004-2F9E-0A0C6D0BBAF5",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": null,
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": false,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    }
+]

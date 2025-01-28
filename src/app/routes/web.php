@@ -1,8 +1,5 @@
 <?php
 
-use Core\Router;
-
-// Definir las rutas
 $router->get('/', [\app\controllers\HomeController::class, 'index']);
 
 // $router->get('/products', [\App\Controllers\ProductController::class, 'index']);

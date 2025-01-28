@@ -1,0 +1,785 @@
+[
+    {
+        "productId": "6718C589-523B-2983-C130-0A0C6D0BBA00",
+        "mainCategoryId": null,
+        "name": "Sttandard Microstone L 20Kg",
+        "sku": "TT01024",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Sttandard Microstone L 20Kg",
+        "description": "Sttandard Microstone L 20Kg",
+        "metaDescription": "Sttandard Microstone L 20Kg",
+        "additionalDescriptions": [],
+        "slug": "sttandard-microstone-l-20kg",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "83.50 €",
+            "amount": 83.5,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575620756",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C589-523B-2983-C130-0A0C6D0BBA00",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C589-523B-2983-C130-0A0C6D0BBA00",
+                "title": ""
+            },
+            {
+                "rel": "cross-selling",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C589-523B-2983-C130-0A0C6D0BBA00/crossselling",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC589%2F523B%2F2983%2FC130%2F0A0C%2F6D0B%2FBA00%2FTopciment-Cubo-Sttandard-Microstone-L_91_1_93_.jpg&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": true,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C5AE-3428-7A0D-C293-0A0C6D107A8B",
+        "mainCategoryId": null,
+        "name": "Sttandard Microbase L 20Kg",
+        "sku": "TT01001",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Sttandard Microbase L 20Kg",
+        "description": "Sttandard Microbase L 20Kg",
+        "metaDescription": "Sttandard Microbase L 20Kg",
+        "additionalDescriptions": [],
+        "slug": "sttandard-microbase-l-20kg",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": {
+            "amount": 20,
+            "unit": "kg"
+        },
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "58.80 €",
+            "amount": 58.8,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575620015",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C5AE-3428-7A0D-C293-0A0C6D107A8B",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C5AE-3428-7A0D-C293-0A0C6D107A8B",
+                "title": ""
+            },
+            {
+                "rel": "cross-selling",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C5AE-3428-7A0D-C293-0A0C6D107A8B/crossselling",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC5AE%2F3428%2F7A0D%2FC293%2F0A0C%2F6D10%2F7A8B%2FSttandard-Microbase-Azul-L_91_1_93_.jpg&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": true,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C5B0-926B-0240-4DCC-0A0C6D10A59E",
+        "mainCategoryId": null,
+        "name": "Sttandard Microstone XL 20Kg",
+        "sku": "TT01006",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Sttandard Microstone XL 20Kg",
+        "description": "Sttandard Microstone XL 20Kg",
+        "metaDescription": "Sttandard Microstone XL 20Kg",
+        "additionalDescriptions": [],
+        "slug": "sttandard-microstone-xl-20kg",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": {
+            "amount": 20,
+            "unit": "kg"
+        },
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "83.50 €",
+            "amount": 83.5,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575620060",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C5B0-926B-0240-4DCC-0A0C6D10A59E",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C5B0-926B-0240-4DCC-0A0C6D10A59E",
+                "title": ""
+            },
+            {
+                "rel": "cross-selling",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C5B0-926B-0240-4DCC-0A0C6D10A59E/crossselling",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC5B0%2F926B%2F0240%2F4DCC%2F0A0C%2F6D10%2FA59E%2FTopciment-Cubo-Sttandard-Microstone-XL_91_1_93_.jpg&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": true,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C828-DB5E-6FB4-7F69-0A0C6D0BB026",
+        "mainCategoryId": null,
+        "name": "Sttandard Microbase XXL 24Kg",
+        "sku": "TT01034",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Sttandard Microbase XXL 24Kg",
+        "description": "Sttandard Microbase XXL 24Kg",
+        "metaDescription": "Sttandard Microbase XXL 24Kg",
+        "additionalDescriptions": [],
+        "slug": "sttandard-microbase-xxl-24kg",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "70.50 €",
+            "amount": 70.5,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662513261",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C828-DB5E-6FB4-7F69-0A0C6D0BB026",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C828-DB5E-6FB4-7F69-0A0C6D0BB026",
+                "title": ""
+            },
+            {
+                "rel": "cross-selling",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C828-DB5E-6FB4-7F69-0A0C6D0BB026/crossselling",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC828%2FDB5E%2F6FB4%2F7F69%2F0A0C%2F6D0B%2FB026%2FSttandard-Microbase-Azul-XXL_91_1_93_.jpg&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": true,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C827-0735-F3FA-2C31-0A0C6D10A540",
+        "mainCategoryId": null,
+        "name": "Sttandard Microdeck® M 18Kg",
+        "sku": "TT01022",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Sttandard Microdeck® M 18Kg",
+        "description": "Sttandard Microdeck® M 18Kg",
+        "metaDescription": "Sttandard Microdeck® M 18Kg",
+        "additionalDescriptions": [],
+        "slug": "sttandard-microdeck-r-m-18kg",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "75.10 €",
+            "amount": 75.1,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662513278",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C827-0735-F3FA-2C31-0A0C6D10A540",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C827-0735-F3FA-2C31-0A0C6D10A540",
+                "title": ""
+            },
+            {
+                "rel": "cross-selling",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C827-0735-F3FA-2C31-0A0C6D10A540/crossselling",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC827%2F0735%2FF3FA%2F2C31%2F0A0C%2F6D10%2FA540%2FSttandard-Microdeck-Azul-M_91_1_93_.jpg&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": true,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C828-1B15-85E0-6A9E-0A0C6D0B1278",
+        "mainCategoryId": null,
+        "name": "Sttandard Microbase XL 22Kg",
+        "sku": "TT01033",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Sttandard Microbase XL 22Kg",
+        "description": "Sttandard Microbase XL 22Kg",
+        "metaDescription": "Sttandard Microbase XL 22Kg",
+        "additionalDescriptions": [],
+        "slug": "sttandard-microbase-xl-22kg",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "64.60 €",
+            "amount": 64.6,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8435662513254",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C828-1B15-85E0-6A9E-0A0C6D0B1278",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C828-1B15-85E0-6A9E-0A0C6D0B1278",
+                "title": ""
+            },
+            {
+                "rel": "cross-selling",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C828-1B15-85E0-6A9E-0A0C6D0B1278/crossselling",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC828%2F1B15%2F85E0%2F6A9E%2F0A0C%2F6D0B%2F1278%2FSttandard-Microbase-Azul-XL_91_1_93_.jpg&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": true,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    },
+    {
+        "productId": "6718C589-9AA3-E157-055D-0A0C6D0B5CF8",
+        "mainCategoryId": null,
+        "name": "Sttandard Microfino S 15Kg",
+        "sku": "TT01028",
+        "isProductNumberVisible": true,
+        "isShippingLinkVisible": true,
+        "title": "Sttandard Microfino S 15Kg",
+        "description": "Sttandard Microfino S 15Kg",
+        "metaDescription": "Sttandard Microfino S 15Kg",
+        "additionalDescriptions": [],
+        "slug": "sttandard-microfino-s-15kg",
+        "deliveryPeriod": "5",
+        "deliveryPeriodUnit": "DAYS",
+        "isVisible": true,
+        "weight": null,
+        "deposit": null,
+        "price": {
+            "taxType": "NET",
+            "formatted": "62.90 €",
+            "amount": 62.9,
+            "currency": "EUR"
+        },
+        "basePrice": null,
+        "strikePrice": null,
+        "isStrikePriceRRP": true,
+        "manufacturer": "Topciment",
+        "bulkPrices": [],
+        "gtin": "8436575620732",
+        "energyLabel": null,
+        "energyLabelSourceFile": null,
+        "productDataSheet": null,
+        "labels": [],
+        "availabilityText": "In stock",
+        "available": true,
+        "hasStockLevel": true,
+        "onStock": true,
+        "warnStock": false,
+        "outOfStock": false,
+        "stockLevelClass": "in",
+        "stockLevelMicrodata": "InStock",
+        "conditionMicrodata": "NewCondition",
+        "shippingMethodsRestrictedTo": null,
+        "hasVariations": false,
+        "isVariationMaster": false,
+        "isVariationProduct": false,
+        "productVariationSelection": null,
+        "productVariationValues": "",
+        "variations": null,
+        "variationMaster": {
+            "name": null,
+            "productId": null,
+            "slug": ""
+        },
+        "customizableProductInfo": null,
+        "orderUnitInfo": {
+            "orderUnit": "piece",
+            "orderUnitShort": "piece(s)",
+            "priceQuantity": 1,
+            "minOrder": 1,
+            "intervalOrder": 1
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C589-9AA3-E157-055D-0A0C6D0B5CF8",
+                "title": ""
+            },
+            {
+                "rel": "categories",
+                "href": "https://www.topciment.shop/rs/shops/701275880/categories/?productId=6718C589-9AA3-E157-055D-0A0C6D0B5CF8",
+                "title": ""
+            },
+            {
+                "rel": "cross-selling",
+                "href": "https://www.topciment.shop/rs/shops/701275880/products/6718C589-9AA3-E157-055D-0A0C6D0B5CF8/crossselling",
+                "title": ""
+            },
+            {
+                "rel": "producttype",
+                "href": "https://www.topciment.shop/rs/shops/701275880/producttypes/664E8CA3-0CEB-739D-345F-0A0C6D106CB0",
+                "title": ""
+            }
+        ],
+        "image": {
+            "url": "/storage/images/image?remote=https%3A%2F%2Fwww.topciment.shop%2FWebRoot%2FStoreES4%2FShops%2F701275880%2F6718%2FC589%2F9AA3%2FE157%2F055D%2F0A0C%2F6D0B%2F5CF8%2FTopciment-Cubo-Sttandard-Microfino-S_91_1_93_.jpg&shop=701275880",
+            "width": 1080,
+            "height": 1080,
+            "isZoomEnabled": false
+        },
+        "slideshow": [],
+        "customAttributes": [],
+        "lowestPrice": null,
+        "lowestRefPriceFormatted": null,
+        "highestPrice": null,
+        "vatNote": "",
+        "showVatNote": true,
+        "hasCrossSelling": true,
+        "isInWishlist": false,
+        "gpsrInfo": {
+            "responsiblePersonAddress": null,
+            "manufacturerAddress": null,
+            "safetyStatements": {
+                "translations": [],
+                "text": null
+            },
+            "pictograms": [],
+            "relevantDocuments": [],
+            "supplemetaryInformation": null
+        }
+    }
+]

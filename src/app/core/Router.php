@@ -34,6 +34,7 @@ class Router
 
     public function dispatch(Request $request): Response
     {
+        $lang = $method = $request->getLang();;
         $method = $request->getMethod();
         $path = $this->normalizePath($request->getUri());
 
@@ -41,10 +42,9 @@ class Router
             $params = $this->match($routePath, $path);
 
             if ($params !== false) {
-                // Ejecutar los guards antes de manejar la ruta
                 $this->executeGuards($route['guards'], $request);
 
-                return $this->handle($route['action'], $request, $params);
+                return $this->handle($route['action'], $request, $params, $lang);
             }
         }
 
@@ -61,7 +61,7 @@ class Router
         }
     }
 
-    private function handle(array|string $handler, Request $request, array $params): Response
+    private function handle(array|string $handler, Request $request, array $params, string $lang): Response
     {
         if (is_array($handler)) {
             [$controller, $method] = $handler;
@@ -71,7 +71,7 @@ class Router
                 throw new Exception("Method {$method} not found in controller {$controller}");
             }
 
-            $response = call_user_func([$controllerInstance, $method], $request, ...$params);
+            $response = call_user_func([$controllerInstance, $method], $request, [...$params, "lang" => $lang]);
             
             if (!$response instanceof Response) {
                 throw new Exception("The controller method must return an instance of Response.");

@@ -2,13 +2,16 @@
 
 namespace app\core;
 
+use app\services\TranslateService;
+
 abstract class Component
 {
     protected string $template;
     protected string $styles;
     protected string $scripts;
-    protected array $services = [];
     protected array $subcomponents = [];
+    
+    public array $services = [];
 
     public function __construct(array $services = [])
     {
@@ -55,8 +58,8 @@ abstract class Component
     protected function loadAssets(): void
     {
         $dir = dirname((new \ReflectionClass($this))->getFileName());
-        $this->styles = file_exists("$dir/{$this->getStyleName()}") ? "$dir/{$this->getStyleName()}" : null;
-        $this->scripts = file_exists("$dir/{$this->getScriptName()}") ? "$dir/{$this->getScriptName()}" : null;
+        $this->styles = file_exists("$dir/{$this->getStyleName()}") ? "$dir/{$this->getStyleName()}" : '';
+        $this->scripts = file_exists("$dir/{$this->getScriptName()}") ? "$dir/{$this->getScriptName()}" : '';
     }
 
     public function getStyles(): ?string

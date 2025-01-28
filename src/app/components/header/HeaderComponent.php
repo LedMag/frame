@@ -6,7 +6,7 @@ use app\core\Component;
 
 class HeaderComponent extends Component
 {
-    protected string $template = 'header.html.php';
+    protected string $template = __DIR__.'/header.html.php';
 
     public function __construct(array $services = [])
     {

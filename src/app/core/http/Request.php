@@ -5,6 +5,7 @@ namespace app\core\http;
 class Request
 {
     private string $method;
+    private string $lang;
     private string $uri;
     private array $query;
     private array $body;
@@ -14,9 +15,15 @@ class Request
     {
         $this->method = $server['REQUEST_METHOD'] ?? 'GET';
         $this->uri = $this->parseUri($server['REQUEST_URI'] ?? '/');
+        $this->lang = explode('/', $this->uri)[1] ?? null;
         $this->query = $query;
         $this->body = $body + $files;
         $this->headers = $this->parseHeaders($server);
+    }
+
+    public function getLang(): string
+    {
+        return $this->lang;
     }
 
     public function getMethod(): string
